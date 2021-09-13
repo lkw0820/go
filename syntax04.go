@@ -30,7 +30,7 @@ func main() {
 	}
 }*/
 
-/*package main
+package main
 
 import (
 	"fmt"
@@ -59,9 +59,9 @@ func main() {
 	} else {
 		fmt.Println(number, "는(은) 소수가 아닙니다.")
 	}
-}*/
+}
 
-package main
+/*package main
 
 import (
 	"fmt"
@@ -89,7 +89,7 @@ func main() {
 	} else {
 		fmt.Println(number, "는(은) 소수가 아닙니다.")
 	}
-}
+}*/
 
 /*package main
 
